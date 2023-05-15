@@ -4,6 +4,6 @@ I am an 18 year old with a passion for design, development, and engineering! I a
 - I am passionate about destigmatizing mental health and bridging the gender gap in STEM 💪
 - I love drawing, learning new things, and playing video games! 🎮
 
-Contact Me:
+Contact Me:  
 Linkedin: https://www.linkedin.com/in/karryberry/  
 email: karenliu531328@gmail.com 
