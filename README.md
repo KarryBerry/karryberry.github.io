@@ -1,9 +1,11 @@
 # Hi, I'm Karen Liu (she/her) 💜
-- I am currently interning as a UI/UX Designer at FutureVault in Toronto, ON
-- I previously interned as a Software Quality Analyst at i4i (Infrastructures for Information) in Toronto, ON
-- I am passionate about destigmatizing mental health and bridging the gender gap in STEM 💪
-- I love drawing, learning new things, and playing video games! 🎮
+Hey, I'm Karen, a Mechatronics Engineering student @ the University of Waterloo who loves design and tackling complex problems. I aim use technology to help people live happier and simpler lives.
+
+With a focus on exploration and growth, I'm ambitious and embrace feedback, actively applying it to evolve and improve.
+
+In my pastime I enjoy all kinds of things! whether it's enjoying a matcha, cozying up with my cat Harry, or exploring the city, I’m open to new experiences :)
 
 ### Contact Me:  
-Linkedin: https://www.linkedin.com/in/karryberry/  
-email: karenliu531328@gmail.com 
+Linkedin: linkedin.com/in/karryberry/  
+Portfolio: karenliu.me
+email: kjyliu@uwaterloo.ca 
