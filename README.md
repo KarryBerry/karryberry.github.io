@@ -6,6 +6,6 @@ With a focus on exploration and growth, I'm ambitious and embrace feedback, acti
 In my pastime I enjoy all kinds of things! whether it's enjoying a matcha, cozying up with my cat Harry, or exploring the city, I’m open to new experiences :)
 
 ### Contact Me:  
-Linkedin: linkedin.com/in/karryberry/  
-Portfolio: karenliu.me
+Linkedin: www.linkedin.com/in/karryberry/  
+Portfolio: wwww.karenliu.me
 email: kjyliu@uwaterloo.ca 
